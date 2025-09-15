@@ -1,2 +1,2 @@
-# ITSC 2310
+# ITSC-2310
 school
