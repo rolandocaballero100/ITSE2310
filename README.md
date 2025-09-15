@@ -1,2 +1,2 @@
-# COSC1336
+# ITSC 2310
 school
