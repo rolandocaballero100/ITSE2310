@@ -30,3 +30,19 @@ print(shoppingList[0])
 //assigning a new valie "Soy Milk" to index 2"
 shoppingList[2] = "Soy Milk"
 print(shoppingList)
+
+// Remove the item at index 1, "Chicken", from the array
+shoppingList.remove(at: 1)
+print(shoppingList)
+shoppingList.removeLast()
+print(shoppingList)
+
+// Iterating over an array
+for shoppingListItem in shoppingList {
+pring(shoppingListItem)
+}
+
+// One-sided range operators
+for shoppingListItem in shoppingList[1...] {
+print(shoppingListItem)
+}
