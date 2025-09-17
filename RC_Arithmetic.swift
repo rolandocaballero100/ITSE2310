@@ -31,4 +31,11 @@ let b = 12.0
  // Using compound assignment Operators
  
  var aa = 1
+ 
+ aa += 2
  //aa is now equal to 3
+ print(aa)
+ 
+ aa -= 1
+ // aa is now equal to 2
+ print(aa)
