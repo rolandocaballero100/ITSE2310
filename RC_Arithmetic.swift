@@ -1,3 +1,5 @@
+#! usr/bin/env swift
+
 // + Addition
 // - Subtraction
 // * Multiplication
@@ -39,3 +41,4 @@ let b = 12.0
  aa -= 1
  // aa is now equal to 2
  print(aa)
+
